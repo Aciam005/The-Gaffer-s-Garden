@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02265c31681c9804aba6274ad621f26d, type: 3}
+  m_Name: CropTile
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Mechanics.Building.BuildingSO
+  buildingName: Rabbit Hutch
+  buildingPrefab: {fileID: 7290727688145754668, guid: 4323fb9f5539c664e941a86ac878b4de, type: 3}
+  width: 6
+  length: 6
+  cost: 250
